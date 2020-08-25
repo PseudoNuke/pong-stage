@@ -2,7 +2,7 @@
 
 ## Feature
 
-Main Menu 
+Main Menu
 
 - Play Game
 - Select Level
@@ -12,13 +12,12 @@ Main Menu
 
 ### Scenario: Play Game is selected
 
-  Given the player wants to play the last played 
-  level.
+  Given the player wants to play the last played level.
 
   When Play Game is selected.
 
   Then Google Play Account Sign-In option appears
-  and game resumes with a counter counting 3, 2 
+  and game resumes with a counter counting 3, 2
   and 1 before launching the game.
 
 ### Scenario: Select Level is selected
