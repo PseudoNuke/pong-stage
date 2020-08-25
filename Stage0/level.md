@@ -1,6 +1,6 @@
 # Levels
 
-## Lets user choose the level, i.e., speed of the ball in balls per minute.
+## Lets user choose the level, i.e., speed of the ball in balls per minute
 
 1. 30 balls
 2. 60 balls
