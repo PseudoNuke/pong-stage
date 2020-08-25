@@ -2,7 +2,8 @@
 
 ## Stops the game
 
-  Stops and resets the timer, stores the score against the entered player name and ends the game.
+  Stops and resets the timer, stores the score against the entered player name
+  and ends the game.
   
 ## Acceptance Criteria
 
